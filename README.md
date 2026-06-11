@@ -198,9 +198,6 @@ After deployment, Terraform provides outputs such as:
 ---
 
 
-
----
-
 ## Learning Outcomes
 
 Through this project, I gained hands-on experience in:
@@ -215,6 +212,9 @@ Through this project, I gained hands-on experience in:
 
 ---
 
+## Note
+
+This project was successfully deployed and tested using Amazon S3 Static Website Hosting and GitHub Actions. The AWS resources were later removed to avoid ongoing cloud costs.
 
 ---
 
